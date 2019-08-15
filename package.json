@@ -1,6 +1,6 @@
 {
   "name": "@digitaliseringsbyran/tailwindcss-screens-in-dom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expose the active tailwind screen to the DOM.",
   "repository": {
     "type": "git",
