@@ -4,7 +4,7 @@
   "description": "Expose the active tailwind screen to the DOM.",
   "repository": {
     "type": "git",
-  	"url": "git+https://github.com/digitaliseringsbyran/tailwindcss-screens-in-dom.git",
+  	"url": "git+https://github.com/Digitaliseringsbyran/tailwindcss-screens-in-dom.git"
   },
   "main": "index.js",
   "keywords": [
@@ -16,7 +16,7 @@
   	"screens",
   	"screen",
   	"active",
-  	"breakpoint",
+  	"breakpoint"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
