@@ -14,7 +14,7 @@ Add the plugin to the `plugins` array in your tailwind config.
 ```js
 plugins: [
   // ...
-  require('./tailwindcss-screens-in-dom')()
+  require('@digitaliseringsbyran/tailwindcss-screens-in-dom')()
 ]
 ```
 
@@ -25,7 +25,7 @@ You can pass an object to override the default settings.
 // Default options
 
 plugins: [
-  require('./tailwindcss-screens-in-dom')({
+  require('@digitaliseringsbyran/tailwindcss-screens-in-dom')({
     noScreen: 'xs' // Viewports below the smallest defined screen.
   })
 ]
@@ -74,7 +74,7 @@ export default () => {
 #### Component
 ```js
 import React from 'react'
-import useTailwindBreakpoint from '../hooks/useTailwindBreakpoint'
+import useTailwindBreakpoint from './useTailwindBreakpoint'
 
 const ActiveScreen => {
   const screen = useTailwindBreakpoint()
