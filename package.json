@@ -1,10 +1,10 @@
 {
-  "name": "tailwindcss-screens-in-dom",
-  "version": "0.0.1",
+  "name": "@digitaliseringsbyran/tailwindcss-screens-in-dom",
+  "version": "0.1.0",
   "description": "Expose the active tailwind screen to the DOM.",
   "repository": {
     "type": "git",
-  	"url": "git+https://github.com/Digitaliseringsbyran/tailwindcss-screens-in-dom.git"
+    "url": "git+https://github.com/Digitaliseringsbyran/tailwindcss-screens-in-dom.git"
   },
   "main": "index.js",
   "keywords": [
@@ -13,10 +13,10 @@
     "tailwind css",
     "tailwindcss-plugin",
     "plugin",
-  	"screens",
-  	"screen",
-  	"active",
-  	"breakpoint"
+    "screens",
+    "screen",
+    "active",
+    "breakpoint"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
