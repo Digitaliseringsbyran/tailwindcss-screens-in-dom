@@ -5,7 +5,7 @@ Expose the active tailwind screen (like `sm`, `md`) in `body:before`, allowing y
 ## Installation
 
 ```
-$ npm install tailwindcss-screens-in-dom --save-dev
+$ npm install @digitaliseringsbyran/tailwindcss-screens-in-dom --save-dev
 ```
 
 ## Usage
